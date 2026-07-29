@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Amit Singh 👋
 
-<!--
-**amits7204/amits7204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Engineer — React Native · React · TypeScript · 7+ years in FinTech & SaaS
 
-Here are some ideas to get you started:
+- 🏦 Built loan origination & management platforms at Aerem (FinTech), core HR modules for greytHR (1M+ downloads)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Specialist in cross-platform mobile: offline-first architecture, CI/CD (Bitrise/GitHub Actions), design systems
+
+- 📦 Authored a cross-platform analytics NPM package with offline persistence & strict TypeScript contracts
+
+- 🚀 Currently building DevCred — a developer credentialing platform (React, Supabase, Vercel)
+
+- 🤖 Currently learning: Generative AI with LangChain & HuggingFace — building toward AI-powered features in DevCred
+
+- 💳 Earlier: payment security modules at Juspay (Express Checkout)
+
+Stack: React 18 · React Native · Expo · TypeScript · Redux Toolkit · React Query · Zustand · Node.js · PostgreSQL · Supabase
+
+📫 cm8204@hotmail.com · [LinkedIn](https://www.linkedin.com/in/amit-singh-77bba361/)
