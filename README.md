@@ -1,6 +1,6 @@
 # Amit Singh
 
-Senior Frontend Engineer · React Native & React · 7+ years in FinTech & SaaS
+Senior Software Engineer · React Native & React · 7+ years in FinTech & SaaS
 
 I build cross-platform mobile and web applications with a focus on offline-first architecture, design systems, and developer experience. Currently building DevCred, a developer credentialing platform.
 
